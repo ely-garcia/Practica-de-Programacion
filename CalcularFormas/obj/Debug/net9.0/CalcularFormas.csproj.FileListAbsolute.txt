@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\bin\Debug\net9.0\CalcularFormas.exe
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\bin\Debug\net9.0\CalcularFormas.deps.json
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\bin\Debug\net9.0\CalcularFormas.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\bin\Debug\net9.0\CalcularFormas.dll
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\bin\Debug\net9.0\CalcularFormas.pdb
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.dll
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\refint\CalcularFormas.dll
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.pdb
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\CalcularFormas.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\CalcularFormas\obj\Debug\net9.0\ref\CalcularFormas.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\IVA\bin\Debug\net9.0\IVA.exe
+C:\Users\HP\Documents\Practicas de programacion\IVA\bin\Debug\net9.0\IVA.deps.json
+C:\Users\HP\Documents\Practicas de programacion\IVA\bin\Debug\net9.0\IVA.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\IVA\bin\Debug\net9.0\IVA.dll
+C:\Users\HP\Documents\Practicas de programacion\IVA\bin\Debug\net9.0\IVA.pdb
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.dll
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\refint\IVA.dll
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.pdb
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\IVA.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\IVA\obj\Debug\net9.0\ref\IVA.dll

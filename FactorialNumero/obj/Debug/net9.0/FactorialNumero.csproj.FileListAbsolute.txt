@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\bin\Debug\net9.0\FactorialNumero.exe
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\bin\Debug\net9.0\FactorialNumero.deps.json
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\bin\Debug\net9.0\FactorialNumero.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\bin\Debug\net9.0\FactorialNumero.dll
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\bin\Debug\net9.0\FactorialNumero.pdb
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.dll
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\refint\FactorialNumero.dll
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.pdb
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\FactorialNumero.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\FactorialNumero\obj\Debug\net9.0\ref\FactorialNumero.dll

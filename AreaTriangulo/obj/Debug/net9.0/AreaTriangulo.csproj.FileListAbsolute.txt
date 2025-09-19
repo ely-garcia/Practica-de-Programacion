@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\bin\Debug\net9.0\AreaTriangulo.exe
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\bin\Debug\net9.0\AreaTriangulo.deps.json
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\bin\Debug\net9.0\AreaTriangulo.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\bin\Debug\net9.0\AreaTriangulo.dll
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\bin\Debug\net9.0\AreaTriangulo.pdb
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.dll
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\refint\AreaTriangulo.dll
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.pdb
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\AreaTriangulo.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\AreaTriangulo\obj\Debug\net9.0\ref\AreaTriangulo.dll

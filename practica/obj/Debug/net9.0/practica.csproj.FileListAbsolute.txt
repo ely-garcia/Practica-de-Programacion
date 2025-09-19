@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\practica\bin\Debug\net9.0\practica.exe
+C:\Users\HP\Documents\Practicas de programacion\practica\bin\Debug\net9.0\practica.deps.json
+C:\Users\HP\Documents\Practicas de programacion\practica\bin\Debug\net9.0\practica.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\practica\bin\Debug\net9.0\practica.dll
+C:\Users\HP\Documents\Practicas de programacion\practica\bin\Debug\net9.0\practica.pdb
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.dll
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\refint\practica.dll
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.pdb
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\practica.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\practica\obj\Debug\net9.0\ref\practica.dll

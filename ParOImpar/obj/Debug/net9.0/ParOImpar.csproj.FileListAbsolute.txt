@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\ParOImpar\obj\Debug\net9.0\ParOImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\ParOImpar\obj\Debug\net9.0\ParOImpar.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\ParOImpar\obj\Debug\net9.0\ParOImpar.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\ParOImpar\obj\Debug\net9.0\ParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\bin\Debug\net9.0\ParOImpar.exe
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\bin\Debug\net9.0\ParOImpar.deps.json
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\bin\Debug\net9.0\ParOImpar.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\bin\Debug\net9.0\ParOImpar.dll
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\bin\Debug\net9.0\ParOImpar.pdb
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\obj\Debug\net9.0\ParOImpar.dll
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\obj\Debug\net9.0\refint\ParOImpar.dll
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\obj\Debug\net9.0\ParOImpar.pdb
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\obj\Debug\net9.0\ParOImpar.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\ParoImpar\obj\Debug\net9.0\ref\ParOImpar.dll

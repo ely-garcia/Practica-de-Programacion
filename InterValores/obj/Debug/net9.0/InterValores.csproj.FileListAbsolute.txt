@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.AssemblyInfo.cs
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Practicas de programacion\InterValores\bin\Debug\net9.0\InterValores.exe
+C:\Users\HP\Documents\Practicas de programacion\InterValores\bin\Debug\net9.0\InterValores.deps.json
+C:\Users\HP\Documents\Practicas de programacion\InterValores\bin\Debug\net9.0\InterValores.runtimeconfig.json
+C:\Users\HP\Documents\Practicas de programacion\InterValores\bin\Debug\net9.0\InterValores.dll
+C:\Users\HP\Documents\Practicas de programacion\InterValores\bin\Debug\net9.0\InterValores.pdb
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.dll
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\refint\InterValores.dll
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.pdb
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\InterValores.genruntimeconfig.cache
+C:\Users\HP\Documents\Practicas de programacion\InterValores\obj\Debug\net9.0\ref\InterValores.dll
