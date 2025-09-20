@@ -6,7 +6,7 @@ namespace Factorial
     {
         static void Main()
         {
-            int opcion; // Mover la declaración fuera del do-while
+            int opcion; 
             do
             {
                 int numero;
