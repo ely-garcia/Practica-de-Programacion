@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -31,7 +31,10 @@ class Program
             Console.WriteLine("3. Área de un Trapecio");
             Console.WriteLine("4. Salir");
             Console.Write("Elige una opción: ");
-            opcion = Convert.ToInt32(Console.ReadLine());
+            while (!int.TryParse(Console.ReadLine(), out opcion))
+            {
+                Console.WriteLine("Dato inválido. Por favor inténtalo de nuevo.");
+            }
 
             switch (opcion)
             {
